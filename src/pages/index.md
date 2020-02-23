@@ -28,20 +28,50 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+
+
+          **1. Educational institutions**
+
+
+          We are associated with few schools and college to offer in housed
+          mental health support.
+
+
+          **2. Referral cases:**
+
+
+          We see cases refereed by clinicians and other practitioners in our
+          centre .
+
+
+          We handled Group Counseling Sessions: 
+
+
+          @ALPHA SCHOOL AFTER MATH FLOODS
+
+
+          @RAMA KRISHNA MISSION AFTER MATH FLOODS.
         image: images/feature1.png
-        title: The Best Feature of Your Services
+        title: Counseling Services
       - actions:
           - label: Learn More
             url: /features
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: |-
+
+
+          * ORIENTATION FOR TEACHERS TO FIND OUT DIFFICULT CHILDREN IN CLASS
+          * CLASSROOM MANAGEMENT FOR TEACHERS
+          * PARENTING WORKSHOP
+          * EMOTIONAL MANAGEMENT
+          * PERSONALITY DEVELOPMENT
+          * ADOLESCENT EDUCATION(Good-Bad touch & sexual harassment)
+          * STUDY STRATEGIES
+          * FRIENDSHIP GOALS
+          * DIGITAL ADDICTION
+
+          **MEDIUM-> Puppetry, Street Theater Skills, Role Play**
         image: images/feature2.png
-        title: Awesome Feature of Your Services
+        title: Training Services
       - actions:
           - label: Learn More
             url: /features
@@ -50,7 +80,10 @@ sections:
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
         image: images/feature3.png
-        title: Cool Feature of Your Services
+        title: Psychological Assessment Services
+      - title: Certificate Courses
+      - title: Awareness Workshop/ Program
+      - title: Summer Camp
     section_id: Our Services
     subtitle: ''
     title: Our Services
