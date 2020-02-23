@@ -18,7 +18,7 @@ sections:
 
       Art based counseling and therapy sessions work better for individual to
       equip their positive thinking skills.
-    image: images/hero.png
+    image: ''
     section_id: hero
     title: This Is A Big Hero Headline
     type: section_hero
